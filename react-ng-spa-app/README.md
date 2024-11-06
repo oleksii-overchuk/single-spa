@@ -1,5 +1,5 @@
 # Single-spa app with React and Angular
-
+## USE NODE 12v
 ## Install the npm packages
 Navigate to the root-config, react-app, and angular-app folders and run the command
 ```js
